@@ -1,4 +1,4 @@
-# Fashion-Classification
+# Fashion Classification
 MATLAB Fashion Classification with Different Networks.
 To use:
 1. Select a model from models folder.
