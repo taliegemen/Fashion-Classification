@@ -11,5 +11,3 @@ MATLAB Fashion Classification with Different Networks.
 4. Voila.
 ## Fashion Classifier with ShuffleNet can be found from Releases.
 ![image](https://raw.githubusercontent.com/taliegemen/Fashion-Classification/master/GUI%20picture.png)
-## Network Comparison Graph
-![image](https://github.com/taliegemen/Fashion-Classification/blob/master/comparison.tif)
