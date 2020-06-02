@@ -9,4 +9,4 @@ MATLAB Fashion Classification with Different Networks.
 2. Run the model.
 3. Change the data path in main.m, then run main.m
 ## Fashion Classifier with ShuffleNet can be found from Releases.
-![image](https://raw.githubusercontent.com/taliegemen/Fashion-Classification/master/GUI%20picture.png)
+![image](https://raw.githubusercontent.com/taliegemen/Fashion-Classification/master/GUIPicture.png)
