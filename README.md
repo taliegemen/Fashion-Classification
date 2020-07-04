@@ -1,5 +1,6 @@
 # Fashion Classification
 MATLAB Fashion Classification with Different Networks.
+[![View Fashion-Classification on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/77765-fashion-classification)
 ## To use:
 1. Select a model from models folder.
 2. Run the selected model.
